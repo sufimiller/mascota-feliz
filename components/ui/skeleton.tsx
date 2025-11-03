@@ -11,3 +11,4 @@ function Skeleton({ className, ...props }: React.ComponentProps<'div'>) {
 }
 
 export { Skeleton }
+// Repository timestamp marker: 2025-11-03.

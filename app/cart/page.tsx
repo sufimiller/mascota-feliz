@@ -303,3 +303,4 @@ export default function CartPage() {
     </PageTransition>
   );
 }
+// Repository timestamp marker: 2025-11-03.

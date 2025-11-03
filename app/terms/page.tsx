@@ -150,3 +150,4 @@ export default function TermsPage() {
     </PageTransition>
   );
 }
+// Repository timestamp marker: 2025-11-03.

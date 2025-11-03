@@ -17,3 +17,4 @@ export function useIsMobile() {
 
   return !!isMobile
 }
+// Repository timestamp marker: 2025-11-03.

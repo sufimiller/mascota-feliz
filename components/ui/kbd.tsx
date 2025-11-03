@@ -26,3 +26,4 @@ function KbdGroup({ className, ...props }: React.ComponentProps<'div'>) {
 }
 
 export { Kbd, KbdGroup }
+// Repository timestamp marker: 2025-11-03.

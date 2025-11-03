@@ -31,3 +31,4 @@ function CollapsibleContent({
 }
 
 export { Collapsible, CollapsibleTrigger, CollapsibleContent }
+// Repository timestamp marker: 2025-11-03.

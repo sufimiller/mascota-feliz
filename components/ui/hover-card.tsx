@@ -42,3 +42,4 @@ function HoverCardContent({
 }
 
 export { HoverCard, HoverCardTrigger, HoverCardContent }
+// Repository timestamp marker: 2025-11-03.

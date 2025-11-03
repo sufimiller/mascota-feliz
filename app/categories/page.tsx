@@ -326,3 +326,4 @@ export default function CategoriesPage() {
     </PageTransition>
   );
 }
+// Repository timestamp marker: 2025-11-03.

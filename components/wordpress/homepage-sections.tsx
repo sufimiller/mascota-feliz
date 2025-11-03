@@ -639,3 +639,4 @@ export function InstagramSection() {
     </section>
   );
 }
+// Repository timestamp marker: 2025-11-03.

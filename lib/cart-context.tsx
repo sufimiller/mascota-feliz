@@ -112,3 +112,4 @@ export function useCart() {
   }
   return context;
 }
+// Repository timestamp marker: 2025-11-03.

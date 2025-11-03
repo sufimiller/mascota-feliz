@@ -269,3 +269,4 @@ export default function CategoryPage({ params }: { params: Promise<{ slug: strin
     </PageTransition>
   );
 }
+// Repository timestamp marker: 2025-11-03.

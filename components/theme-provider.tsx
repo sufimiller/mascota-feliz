@@ -9,3 +9,4 @@ import {
 export function ThemeProvider({ children, ...props }: ThemeProviderProps) {
   return <NextThemesProvider {...props}>{children}</NextThemesProvider>
 }
+// Repository timestamp marker: 2025-11-03.

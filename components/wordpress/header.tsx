@@ -252,3 +252,4 @@ export function Header() {
     </>
   );
 }
+// Repository timestamp marker: 2025-11-03.

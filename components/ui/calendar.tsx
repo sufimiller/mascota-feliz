@@ -211,3 +211,4 @@ function CalendarDayButton({
 }
 
 export { Calendar, CalendarDayButton }
+// Repository timestamp marker: 2025-11-03.

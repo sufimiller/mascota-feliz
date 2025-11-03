@@ -229,3 +229,4 @@ export default function AccountPage() {
     </PageTransition>
   );
 }
+// Repository timestamp marker: 2025-11-03.

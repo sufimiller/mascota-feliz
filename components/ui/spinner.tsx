@@ -14,3 +14,4 @@ function Spinner({ className, ...props }: React.ComponentProps<'svg'>) {
 }
 
 export { Spinner }
+// Repository timestamp marker: 2025-11-03.

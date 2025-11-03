@@ -176,3 +176,4 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
     </article>
   );
 }
+// Repository timestamp marker: 2025-11-03.

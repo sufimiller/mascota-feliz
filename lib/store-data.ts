@@ -525,3 +525,4 @@ export function calculateDiscount(price: number, originalPrice?: number): number
   if (!originalPrice) return 0;
   return Math.round(((originalPrice - price) / originalPrice) * 100);
 }
+// Repository timestamp marker: 2025-11-03.

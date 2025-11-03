@@ -208,3 +208,4 @@ export function Footer() {
     </footer>
   );
 }
+// Repository timestamp marker: 2025-11-03.

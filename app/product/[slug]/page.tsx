@@ -416,3 +416,4 @@ export default function ProductPage({ params }: { params: Promise<{ slug: string
     </PageTransition>
   );
 }
+// Repository timestamp marker: 2025-11-03.

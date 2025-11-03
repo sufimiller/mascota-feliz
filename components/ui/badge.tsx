@@ -44,3 +44,4 @@ function Badge({
 }
 
 export { Badge, badgeVariants }
+// Repository timestamp marker: 2025-11-03.
